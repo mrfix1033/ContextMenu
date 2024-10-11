@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ContextMenu</string>
-    <string name="input_text">Введите текст</string>
-    <string name="title_change_color">Поменять цвет</string>
-    <string name="title_change_font_size">Поменять размер шрифта</string>
+    <string name="input_text">Введите оценку</string>
+    <string name="color_quality_action">Цветовое качество</string>
+    <string name="exit_action">Выход из приложения</string>
+    <string name="exit_label">Выход...</string>
+    <string name="number_generated_label">Сгенерировано число</string>
+    <string name="random_number_action">Случайное число</string>
 </resources>
